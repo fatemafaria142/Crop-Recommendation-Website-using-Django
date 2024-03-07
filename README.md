@@ -23,7 +23,7 @@ The dataset is created by augmenting rainfall, climate, and fertilizer data avai
 
 
 
-# Crop Recommendation App using Streamlit
+# Crop Recommendation Website using Django
 
 ![Crop Recommendation App](Crop_Django_1.PNG) ![Crop Recommendation App](Crop_Django_2.PNG)
 
